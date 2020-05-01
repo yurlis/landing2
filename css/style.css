@@ -1,0 +1,15 @@
+header {
+  background-color: #fff;
+}
+
+body {
+  font-style: 20px;
+}
+
+body div {
+  font-style: 10px;
+}
+
+body ul {
+  margin-bottom: 20px;
+}
