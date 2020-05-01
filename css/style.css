@@ -2,14 +2,16 @@ header {
   background-color: #fff;
 }
 
-body {
+@mi body {
   font-style: 20px;
+  div {
+    font-style: 10px;
+  }
+  ul {
+    margin-bottom: 20px;
+  }
 }
 
-body div {
-  font-style: 10px;
-}
-
-body ul {
+.c {
   margin-bottom: 20px;
 }
